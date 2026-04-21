@@ -14,6 +14,7 @@ Este proyecto es un ejemplo básico de cómo conectar Python a una base de datos
 
 ## Estructura del proyecto
 
+```
 education_project/
 │
 ├── config/
@@ -29,6 +30,7 @@ education_project/
 │   └── enrollment_service.py
 │
 └── main.py
+```
 
 ---
 
